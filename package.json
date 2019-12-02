@@ -1,8 +1,8 @@
 {
-  "name": "rest-api",
+  "name": "rest-api-express-mongodb",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Randan/rest-api.git",
+  "repository": "git@github.com:Randan/rest-api-express-mongodb.git",
   "author": "Andrew Randan <andrewrandan@gmail.com>",
   "license": "MIT",
   "scripts": {
